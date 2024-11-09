@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">WorkHub pro</string>
+    <string name="hey_there">Hello There,</string>
+    <string name="create_account">Create a New Account</string>
+    <string name="create_Org">Create New Organisation</string>
+    <string name="admin_Details">Enter Admin\'s details</string>
+    <string name="login">Welcome Back</string>
+    <string name ="username">Username</string>
+    <string name="first_name">First Name</string>
+    <string name="description">Short Description</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="Company_email">Company Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="send_message">send message</string>
+    <string name="terms_and_conditions">By Continuing you accept our Privacy Policy and Term of Use</string>
+    <string name="admin_name">Admin Name</string>
+    <string name="domain_name">Domain Name</string>
+    <string name="company_type">Company Type</string>
+    <string name="organisation_name">Organisation Name</string>
+    <string name ="Login">Login With your Credentials</string>
+    <string name="Profile_photo">Profile</string>
+    <string name="Projects_list">Projects</string>
+    <string name="join_org">Join your Organization</string>
+    <string name="privacy_key">Privacy Key</string>
+    <string name="role">Role</string>
+    <string name="create_project">Enter Project Details</string>
+    <string name="project_name">Enter Project Name</string>
+    <string name="task_name">Enter Task Name</string>
+    <string name="projectlead">Enter Project Leader</string>
+    <string name="project_description">Enter Project description</string>
+    <string name="task_description">Enter Task description</string>
+    <string name="task_deadline">Enter deadline in dd-mm-yyyy</string>
+    <string name="Create_New_project">Create New Project</string>
+    <string name="Create_New_Task">Create New Task</string>
+
+
+
+</resources>
