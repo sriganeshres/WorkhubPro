@@ -147,17 +147,17 @@ go run main.go
 
 ## 🔍 Additional Information
 
-- For detailed information about the project, refer to the comprehensive [Software Requirements Specification (SRS) Document](https://github.com/sriganeshres/WorkHub-Pro/blob/production/Final%20SRS.pdf).
-- Check out the project's [GitHub repository](https://github.com/sriganeshres/WorkHub-Pro) for the latest updates, issues, and pull requests.
-- For detailed information about the project, refer to the comprehensive [Software Requirements Specification (SRS) Document](https://github.com/sriganeshres/WorkHub-Pro/blob/production/Final%20SRS.pdf).
-- Explore the project's [Risk Analysis](https://github.com/sriganeshres/WorkHub-Pro/blob/production/Risk%20Analysis%20and%20Mitigation%20Plan%20.pdf) for in-depth information on architecture, design patterns, and development practices.
+- For detailed information about the project, refer to the comprehensive [Software Requirements Specification (SRS) Document](https://github.com/sriganeshres/WorkhubPro/blob/master/Final%20SRS.pdf).
+- Check out the project's [GitHub repository](https://github.com/sriganeshres/WorkhubPro) for the latest updates, issues, and pull requests.
+- For detailed information about the project, refer to the comprehensive [Software Requirements Specification (SRS) Document](https://github.com/sriganeshres/WorkhubPro/blob/master/Final%20SRS.pdf).
+- Explore the project's [Risk Analysis](https://github.com/sriganeshres/WorkhubPro/blob/master/Risk%20Analysis%20and%20Mitigation%20Plan%20.pdf) for in-depth information on architecture, design patterns, and development practices.
 
 ## 👥 Project Members
 
 The WorkhubPro ERP System was developed by a dedicated team of contributors:
 
-- [Aditya Trivedi](https://github.com/adit4443ya)
 - [Sri Ganesh Thota](https://github.com/sriganeshres)
+- [Aditya Trivedi](https://github.com/adit4443ya)
 - [Rahul Reddy](https://github.com/rahulrangers)
 
 Feel free to reach out to any of the project members for more information or collaboration opportunities.
